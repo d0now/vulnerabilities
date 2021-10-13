@@ -74,5 +74,5 @@ int sub_804B2BC()
 - 업로드 한 임의의 바이너리에 **실행 권한을 부여하여** 실행해야만 최종적으로 권한을 획득할 수 있습니다.
 - 인증(로그인) 후 사용 가능한 취약점입니다.
 
-## Root Cause Analysis (English)
+## Report (English)
 .. ( I'll update english version if someone needs :) ) ..
