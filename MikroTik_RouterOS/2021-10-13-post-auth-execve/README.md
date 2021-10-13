@@ -1,4 +1,4 @@
-# MikroTik arbitrary call `execve()` (Post Authentication)
+# RouterOS arbitrary call `execve()` (Post Authentication)
 - Affect version : 6.48.3 to 6.48.? (not checked. sorry.)
 - Impact : `Low`
 - Difficulty : `Low`
