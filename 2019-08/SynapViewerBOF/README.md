@@ -1,0 +1,1 @@
+`*.nppt` 파일 파싱 중 xml 프로퍼티의 이름으로 Buffer Overflow 발생하여 PC 조작 가능.

@@ -1,0 +1,1 @@
+Torrent 설정 메뉴에서 Buffer Overflow 발생.
